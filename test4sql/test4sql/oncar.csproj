@@ -43,7 +43,7 @@
     <PackageReference Include="Plugin.BLE" Version="2.2.0-pre2" />
     <PackageReference Include="Plugin.Toast" Version="2.1.2" />
     <PackageReference Include="SharpCifs.Std" Version="0.2.13" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.4.0" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1269" />
     <PackageReference Include="Xamarin.Essentials" Version="1.0.1" />
